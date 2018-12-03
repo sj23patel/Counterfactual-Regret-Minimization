@@ -1,2 +1,2 @@
-# -Counterfactual-Regret-Minimization
-A simulation to demonstrate game-theoretic regret-based algorithm on several rounds of Rock-Paper-Scissors game. 
+# Counterfactual-Regret-Minimization
+Here, I have managed to demnostrate simulation of a 2 player Rock-Paper-Scissors game. Player's strategy is defined by a regret minimization algorithm which uses following score matrix to evaluate each move and improve upon it in next game. Nash Equilibirum was achieved when both the players adopted same dynamic strategy based moves. Subsequent graphs shown below are cummulations of results achieved when the game was player over 10,000 rounds. 
