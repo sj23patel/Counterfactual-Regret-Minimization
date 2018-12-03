@@ -53,3 +53,9 @@ In the second setting, strategy of the second player isn’t static. Just as we 
 </p>
 
 As seen from the above figure, when the opponent and us, plays with same dynamic strategies, improving our regrets after each game round. It is observed that both players will play all the moves with equal probablities (i.e. 0.33). Hence, a nash equlibrium is said to be achieved.
+
+### How to run
+1. Make sure you have the properly installed Matlab.
+2. Clone or download this repository.
+3. Run "train.m" on Matlab. You can change the number of game rounds to be played.
+4. Enjoy!
