@@ -59,3 +59,5 @@ As seen from the above figure, when the opponent and us, plays with same dynamic
 2. Clone or download this repository.
 3. Run "train.m" on Matlab. You can change the number of game rounds to be played.
 4. Enjoy!
+
+Reference: http://modelai.gettysburg.edu/2013/cfr/index.html
